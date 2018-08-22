@@ -104,3 +104,5 @@ test('mergeImages uses opacity', async t => {
 
 	t.true(b64 === expectedB64);
 });
+
+test('mergeImages test', t => t.pass());
